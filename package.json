@@ -1,0 +1,24 @@
+{
+  "name": "scrivener",
+  "version": "0.0.2",
+  "description": "params filtering inspired by soveran/scrivener",
+  "main": "scrivener.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cyx/scrivener.js.git"
+  },
+  "keywords": [
+    "scrivener",
+    "filtering",
+    "params"
+  ],
+  "author": "Cyril David",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cyx/scrivener.js/issues"
+  },
+  "homepage": "https://github.com/cyx/scrivener.js"
+}
